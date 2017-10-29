@@ -18,7 +18,6 @@
 	, {"path":"${HOME}/.fonts", "read_only":true}
 	, {"path":"${HOME}/Documents", "can_create":true}
 	, {"path":"${HOME}/Pictures", "can_create":true}
-	, {"path":"/tmp", "can_create":true}
 	, {"path":"/etc/gimp", "read_only": true, "ignore": true}
 	, {"path":"/usr/share/gimp", "read_only":true}
 ]
